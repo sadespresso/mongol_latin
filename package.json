@@ -1,0 +1,18 @@
+{
+  "name": "mongol_latin",
+  "version": "1.0.0",
+  "description": "A simple library for romanizing mongolian cyrillic text",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "mongol",
+    "latin",
+    "cyrillic",
+    "galiglah"
+  ],
+  "author": "theironbatka",
+  "license": "MIT-License"
+}
