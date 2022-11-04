@@ -1,6 +1,6 @@
 {
   "name": "mongol_latin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library for romanizing mongolian cyrillic text",
   "main": "dist/index.js",
   "scripts": {
